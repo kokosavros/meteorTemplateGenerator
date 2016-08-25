@@ -2,7 +2,7 @@
 
 {{openModal}} = function() {
     {{template}} = new {{classname}}();
-    {{classname}}.openDialog();
+    {{template}}.openDialog();
 };
 
 Template.{{template}}.onRendered(function() {
