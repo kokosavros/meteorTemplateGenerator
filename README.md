@@ -2,9 +2,9 @@
 A script I made to automatically create the initial files for adding a modal to a MeteorJS project.
 
 # Usage
-'''sh
+```sh
 $ python modals_create.py --modal_name
-'''sh
+```sh
 # Result
 It creates a directory 'modal_nameModal' with three files
 
