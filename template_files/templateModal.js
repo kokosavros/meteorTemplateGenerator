@@ -5,14 +5,8 @@
     {{template}}.openDialog();
 };
 
-Template.{{template}}.onRendered(function() {
-    
-});
+Template.{{template}}.onRendered(function() {});
 
-Template.{{template}}.helpers({
-   
-});
+Template.{{template}}.helpers({});
 
-Template.{{template}}.events({
-    
-});
+Template.{{template}}.events({});
