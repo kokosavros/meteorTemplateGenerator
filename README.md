@@ -6,7 +6,11 @@ modals_create --modal_name
 
 # Result
 It creates a directory 'modal_nameModal' with three files
+
 modal_nameModal/
+
   modal_name.js
+  
   modal_nameModal.js
+  
   modal_nameModal.html
