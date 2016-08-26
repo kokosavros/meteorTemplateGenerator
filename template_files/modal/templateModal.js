@@ -1,5 +1,6 @@
 {{template}} = new {{classname}}();
 
+// Call this function to open the Modal
 {{openModal}} = function() {
     {{template}} = new {{classname}}();
     {{template}}.openDialog();
