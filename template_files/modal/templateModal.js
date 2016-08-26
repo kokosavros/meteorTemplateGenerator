@@ -8,7 +8,7 @@
 
 Template.{{template}}.onRendered(function() {});
 
-Template.{{template}}.onCreate(function() {});
+Template.{{template}}.onCreated(function() {});
 
 Template.{{template}}.helpers({});
 
